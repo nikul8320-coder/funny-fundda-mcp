@@ -9,7 +9,7 @@
     "dev": "wrangler dev"
   },
   "dependencies": {
-    "agents": "^0.7.0",
+    "agents": "^0.33.0",
     "@modelcontextprotocol/server": "^2.4.0",
     "zod": "^4.0.0"
   },
